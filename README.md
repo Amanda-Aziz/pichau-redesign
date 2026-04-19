@@ -2,7 +2,7 @@
 
 Este projeto é uma recriação da interface do site da [Pichau Informática](https://pichau.com.br), desenvolvido com fins puramente educacionais para praticar habilidades de desenvolvimento frontend e UI/UX.
 
-> **🚀 Status do Projeto:** [Concluído]
+> **🚀 Status do Projeto:** [ EM ANDAMENTO ]
 
 ---
 
